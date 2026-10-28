@@ -28,7 +28,8 @@ Excel: Pivot Tables, calculated field (% variance), Slicers, Timeline, charts
 - Smallest overrun: Finance department (8.4%).
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+<img width="1857" height="627" alt="image" src="https://github.com/user-attachments/assets/da625eea-9c09-4266-86be-b2405de89b29" />
+
 
 ## Files
 ```
